@@ -1,0 +1,4 @@
+allow-chat: false
+anonymous-chat: false
+# anonymous-chat은 allow-chat이 true일 때만 작동합니다.
+allow-whisper: false
